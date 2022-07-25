@@ -1,8 +1,6 @@
 <h1>Hi 👋, I'm Mateusz Skrobiś</h1>
 <h3>A passionate Frontend Developer from Poland</h3>
 
-- 🔭 I’m currently working on [Zoomings](https://github.com/Mat3uszkek/zoomings-ui)
-
 - 🌱 I’m currently learning **Typescript**
 
 - 📫 How to reach me **mateuszskrobis0707@gmail.com**
