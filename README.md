@@ -1,9 +1,12 @@
 <h1>Hi 👋, I'm Mateusz Skrobiś</h1>
 <h3>A passionate Frontend Developer from Poland</h3>
 
+- I am a Frontend developer from Toruń, Poland.
+- Currently working at [Evionica](https://evionica.com/)
+- Previously work at [RYWAL-RHC](https://rywal.com.pl)
 - 🌱 I’m currently learning **Typescript**
-
 - 📫 How to reach me **mateuszskrobis0707@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
