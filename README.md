@@ -4,7 +4,6 @@
 - I am a Frontend developer from Toruń, Poland.
 - Currently working at [Evionica](https://evionica.com/)
 - Previously work at [RYWAL-RHC](https://rywal.com.pl)
-- 🌱 I’m currently learning **Typescript**
 - 📫 How to reach me **mateuszskrobis0707@gmail.com**
 
 
