@@ -2,8 +2,8 @@
 <h3>A passionate Frontend Developer from Poland</h3>
 
 - I am a Frontend developer from Toruń, Poland.
-- Currently working at [Evionica](https://evionica.com/)
-- Previously work at [RYWAL-RHC](https://rywal.com.pl)
+- Currently working at [Ista Technologies](https://evionica.com/](https://www.ista.com/it-pl/))
+- Previously work at [Evionica](https://evionica.com/)
 - 📫 How to reach me **mateuszskrobis0707@gmail.com**
 
 
